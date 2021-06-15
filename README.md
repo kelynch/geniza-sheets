@@ -1,4 +1,4 @@
-# geniza-csv.rb
+# README for geniza-csv.rb
 
 The script assumes you have a folder of folders with images:
 
